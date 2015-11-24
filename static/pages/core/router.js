@@ -1,15 +1,15 @@
-Tools = components.tools;
+锘縏ools = components.tools;
 
 console.log("load router.js....")
 if(window.location.pathname == "/login" || window.location.hash == '#/login'){
 	window.location.hash = "#/login";
-    console.log("加载Login")
-	//根据URL加载不同业务页面
+    console.log("鍔犺浇Login")
+	//鏍规嵁URL鍔犺浇涓嶅悓涓氬姟椤甸潰
 	Tools.goJSX("#/login");
 }else{
     console.log("load base.jsx")
-	//加载基本框架
+	//鍔犺浇鍩烘湰妗嗘灦
 	Tools.loadScript("./static/pages/core/base.jsx");
-	//根据URL加载不同业务页面
+	//鏍规嵁URL鍔犺浇涓嶅悓涓氬姟椤甸潰
 	Tools.goJSX(window.location.hash);
 }

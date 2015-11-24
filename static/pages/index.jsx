@@ -1,4 +1,4 @@
-var React=components.React;
+ï»¿var React=components.React;
 var ReactDOM=components.ReactDOM;
 var WordCloud = components.echarts.WordCloud;
 var BasicColumn = components.echarts.BasicColumn;
@@ -18,16 +18,16 @@ var BasicColumn = components.echarts.BasicColumn;
 //ECharts
 var data = [
       {
-          name : "²âÊÔ1",
+          name : "æµ‹è¯•1",
          data : [90, 113, 140, 30, 70, 60]
       },
         {
-            name : "²âÊÔ2",
+            name : "æµ‹è¯•2",
             data : [190, 213, 240, 230, 70, 260]
         },
     ];
 
-var xAxisName = ['ÖÜÒ»','ÖÜ¶ş','ÖÜÈı','ÖÜËÄ','ÖÜÎå','ÖÜÁù','ÖÜÈÕ'];
+var xAxisName = ['å‘¨ä¸€','å‘¨äºŒ','å‘¨ä¸‰','å‘¨å››','å‘¨äº”','å‘¨å…­','å‘¨æ—¥'];
 
 
 
@@ -35,10 +35,10 @@ var ThisPage = React.createClass({
     render: function(){
 	    return(
 			<div>
-        	<p>i am index page!!!!!!!!!!!µÄ¸ºµ£¸´µ©</p>
+        	<p>i am index page!!!!!!!!!!!çš„è´Ÿæ‹…å¤æ—¦</p>
 				<a href="/" data-tohash>click to base page</a>
-			<BasicColumn data={data} xAxisName={xAxisName}/>
-			<WordCloud data={data1} />
+                <BasicColumn data={data} xAxisName={xAxisName}/>
+                <WordCloud data={data1} />
 				</div>
 		);
 	},
