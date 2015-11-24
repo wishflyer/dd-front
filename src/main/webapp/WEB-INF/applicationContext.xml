@@ -13,4 +13,9 @@
     <!--<context:property-placeholder location="classpath*:db.properties" ignore-unresolvable="true"/>-->
 
 	<!--<import resource="classpath:db-config.xml"/>-->
+
+    <context:component-scan base-package="cn.dd"/>
+
+    <import resource="classpath:websock-config.xml"/>
+
 </beans>

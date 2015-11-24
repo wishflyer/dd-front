@@ -14,8 +14,18 @@
 
     <core.version>1.0</core.version>
     <spring.version>4.2.2.RELEASE</spring.version>
+    <spring.boot.version>1.2.7.RELEASE</spring.boot.version>
+    <jetty.version>1.2.7.RELEASE</jetty.version>
   </properties>
 
+
+
+  <!-- Inherit defaults from Spring Boot -->
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>1.2.7.RELEASE</version>
+  </parent>
 
   <dependencies>
 
@@ -102,10 +112,35 @@
     </dependency>
 
     <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-websocket</artifactId>
+      <version>${spring.version}</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-messaging</artifactId>
+      <version>${spring.version}</version>
+    </dependency>
+
+<!--
+
+    <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-web</artifactId>
-      <version>1.2.7.RELEASE</version>
+      <exclusions>
+        <exclusion>
+          <groupId>org.springframework.boot</groupId>
+          <artifactId>spring-boot-starter-tomcat</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-jetty</artifactId>
+    </dependency>
+-->
+
     <!--spring end-->
 
     <dependency>
@@ -114,7 +149,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-
 
 
   </dependencies>
