@@ -10,12 +10,19 @@ from core import app
 from config.logConfig import logConfigInit
 
 from tornado.options import define, options
-
+from server.websocket.chat import ChatConnection
+import sockjs
 
 define("port", default=8888, help="run on the given port", type=int)
 
+
+
 application = app.Application()
 application.autoLoadModule(os.path.join(sys.path[0], "server"))
+
+# 添加sockjs
+ChatRouter = sockjs.tornado.SockJSRouter(ChatConnection, '/chat')
+application.add_handlers(".*$",ChatRouter.urls)
 
 
 if __name__ == "__main__":
