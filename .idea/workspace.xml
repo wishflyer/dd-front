@@ -2,38 +2,113 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4467f05-18ed-4b86-b159-668b992f2154" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/websocket/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/transports/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/transports/base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/basehandler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendors/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/chat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/websocket/chat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/conn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/transports/eventsource.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/transports/htmlfile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/transports/jsonp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/migrate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/periodic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/transports/pollingbase.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/proto.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/transports/rawwebsocket.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/router.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/session.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/sessioncontainer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/vendors/sockjs/sockjs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/static.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/stats.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/transports/streamingbase.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/util.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/websocket.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/transports/websocket.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/transports/xhr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockjs/tornado/transports/xhrstreaming.py" />
-      <change type="DELETED" beforePath="E:\workspace\dd-front\static\vendors\sockjs\sockjs-0.3.4.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\dd-front\static\vendors\sockjs\stomp.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/img/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/img/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/vendors/superSlider/ad_ctr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/images/algeria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/images/algerian1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/images/algerian2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/ad/bar1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/ad/bar2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/ad/bar3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/ad/bar4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/bg/bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/img/bg_visual_grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/bigbar1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/bigbar2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/bigbar3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/bigbar4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/bj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/bj2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/boys/boy0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/boys/boy1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/boys/boy10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/boys/boy2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/boys/boy3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/boys/boy4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/boys/boy5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/boys/boy6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/boys/boy7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/boys/boy8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/boys/boy9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/vendors/superSlider/dot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/vendors/superSlider/dot8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/girls/girl9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/images/jar1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/images/jar2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/images/parthenon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/images/pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/images/propylaea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/vendors/superSlider/slider-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/vendors/superSlider/slider-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/vendors/superSlider/sprites1008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/vendors/superSlider/tg_flash_p.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/vendors/superSlider/touming.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/src/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/test/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/MIT-LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/antd-ie8-patch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/antd-ie9-patch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/backgroundsize.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/backgroundsize.min.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/ie-css3.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/ie8-patch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/src/intro.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/test/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/websocket/message.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/src/outro.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/src/outro.min.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/test/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/test/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/src/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/test/test.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/patch/background-size-polyfill-gh-pages/test/test.js" />
+      <change type="DELETED" beforePath="H:\workspace\dd-front\static\vendors\JSXTransformer.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/websocket/chat.py" afterPath="$PROJECT_DIR$/server/websocket/chat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/main.py" afterPath="$PROJECT_DIR$/server/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.py" afterPath="$PROJECT_DIR$/server.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -49,7 +124,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/dd-front$server.coverage" NAME="server Coverage Results" MODIFIED="1448427604930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dd-front$server.coverage" NAME="server Coverage Results" MODIFIED="1463045648272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -60,65 +135,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/pages/core/router.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chat.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/chat.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5799649">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chat.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/websocket/chat.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-              <folding>
-                <element signature="e#114#135#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-6.785714">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <file leaf-file-name="logConfig.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/logConfig.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.677419">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="57" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -127,8 +158,18 @@
       <file leaf-file-name="client.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8502582">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,8 +178,8 @@
       <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="64" />
+            <state vertical-scroll-proportion="20.357143">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -147,8 +188,48 @@
       <file leaf-file-name="handler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/handler.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/pages/core/config.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/pages/core/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/pages/core/base.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restApi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/restApi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -176,7 +257,6 @@
         <option value="$PROJECT_DIR$/core/app.py" />
         <option value="$PROJECT_DIR$/core/handler.py" />
         <option value="$PROJECT_DIR$/static/pages/test.jsx" />
-        <option value="$PROJECT_DIR$/server/main.py" />
         <option value="$PROJECT_DIR$/static/pages/core/router.js" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/static/pages/core/config.js" />
@@ -184,9 +264,12 @@
         <option value="$PROJECT_DIR$/config/logConfig.py" />
         <option value="$PROJECT_DIR$/static/pages/index.jsx" />
         <option value="$PROJECT_DIR$/server/chat/chat.py" />
-        <option value="$PROJECT_DIR$/server/websocket/chat.py" />
-        <option value="$PROJECT_DIR$/server.py" />
         <option value="$PROJECT_DIR$/templates/chat.html" />
+        <option value="$PROJECT_DIR$/templates/test.html" />
+        <option value="$PROJECT_DIR$/server/main.py" />
+        <option value="$PROJECT_DIR$/server/websocket/chat.py" />
+        <option value="$PROJECT_DIR$/server/websocket/message.py" />
+        <option value="$PROJECT_DIR$/server.py" />
       </list>
     </option>
   </component>
@@ -198,10 +281,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="-7" />
+    <option name="width" value="1932" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -226,7 +308,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -287,10 +368,6 @@
               <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -342,20 +419,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sockjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dd-front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dd-front" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -370,11 +433,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="websocket" />
+              <option name="myItemId" value="log" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -389,11 +448,27 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dd-front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dd-front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,12 +478,16 @@
     <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\dd-front\server\websocket" />
+      <recent name="E:\workspace\dd-front\static\patch" />
+      <recent name="E:\workspace\dd-front\static" />
+      <recent name="E:\workspace\dd-front\templates" />
       <recent name="E:\workspace\dd-front\static\vendors" />
-      <recent name="E:\workspace\dd-front" />
-      <recent name="E:\workspace\dd-front\static\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\workspace\dd-front\static\vendors\sockjs" />
@@ -424,9 +503,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="dd-front" />
@@ -498,7 +577,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="dd-front" />
+      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
@@ -634,61 +713,226 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f4467f05-18ed-4b86-b159-668b992f2154" name="Default" comment="" />
       <created>1448334563194</created>
       <option name="number" value="Default" />
       <updated>1448334563194</updated>
+      <workItem from="1456818988310" duration="8000" />
+      <workItem from="1456819149204" duration="12000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-7" y="0" width="1932" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20563674" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18283582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3272727" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32700422" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/websocket/chat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/websocket/message.py">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/websocket/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/chat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/websocket/chat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/websocket/message.py">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/websocket/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pages/core/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/chat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/websocket/chat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/pages/core/base.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,9 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
-          <folding>
-            <marker date="1448360501691" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,7 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -722,24 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/appConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/logConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -748,7 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,14 +977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/.dummy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -774,35 +987,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirment.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/restApi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6647834">
@@ -810,51 +994,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/logConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/pages/login.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12429378">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python27/Lib/socket.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/appConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/pages/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
-          <folding>
-            <marker date="1448360501691" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -862,11 +1005,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.857143">
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/vendors/sockjs/sockjs.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/patch/ie-css3.htc">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72982454">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="32" selection-start-line="8" selection-start-column="12" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pages/login.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pages/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/tornado/web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1785" column="43" selection-start-line="1785" selection-start-column="43" selection-end-line="1785" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/chat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sockjs/tornado/conn.py">
+    <entry file="file://$PROJECT_DIR$/server/websocket/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -874,26 +1076,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/pages/core/config.js">
+    <entry file="file://$PROJECT_DIR$/server/websocket/chat.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/pages/core/base.jsx">
+    <entry file="file://$PROJECT_DIR$/server/websocket/message.py">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/handler.py">
+    <entry file="file://$PROJECT_DIR$/config/appConfig.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/logConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/restApi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -908,70 +1129,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="64" />
+        <state vertical-scroll-proportion="20.357143">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/main.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.785714">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/handler.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pages/core/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/pages/core/router.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="38" />
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/websocket/chat.py">
+    <entry file="file://$PROJECT_DIR$/static/pages/core/base.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding>
-            <element signature="e#114#135#0" expanded="true" />
-          </folding>
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
-        </state>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.677419">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/vendors/sockjs/sockjs.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/chat.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5799649">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.8502582">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>

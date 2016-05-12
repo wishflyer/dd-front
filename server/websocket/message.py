@@ -9,16 +9,9 @@ from core.handler import BaseHandler
 from core import app
 
 
-@app.route("/chat")
-class ChatHandler(BaseHandler):
-    """Regular HTTP handler to serve the chatroom page"""
-
-    def get(self):
-        self.render('chat.html')
 
 
-
-class ChatConnection(sockjs.tornado.SockJSConnection):
+class MessageConnection(sockjs.tornado.SockJSConnection):
     """Chat connection implementation"""
     # Class level variable
     participants = set()
